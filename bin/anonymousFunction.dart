@@ -5,7 +5,7 @@ void anonymousFunctionExample(){
   print('--Anonymous Function Example--');
 
   var greet= (String name){
-    print('Heelo, $name!');
+    print('Hello, $name!');
   };
   greet('Tuhin');
   var numbers=[1, 2,3];

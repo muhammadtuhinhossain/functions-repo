@@ -11,4 +11,6 @@ void namedParameterExample(){
   creatUser(email: 'hasan@gamil.com',name: 'Hasan', age: 23);
   creatUser(name: 'Hossain');
   creatUser();
+  //order doesn't matter
+  //other parameter are null
 }
